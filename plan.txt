@@ -1,0 +1,10 @@
+margin 1pr | 2pr | 4pr
+margin-top|left..
+padding 1pr | 2pr | 4pr
+padding 
+border
+border-radius
+:hover
+text-align
+
+селекторы через запятую и классы 
